@@ -2,7 +2,7 @@
 
 ![Interactive churn dashboard](assets/DashBoard3.PNG)
 
-*Interactive Excel dashboard built on pivot tables, pivot charts and slicers. Open [`workbook/Bank_Customer_Churn_Dashboard.xlsx`](assets/Excel_WorkBook1.xlsx) to filter by geography, age group and complaint status.*
+*Interactive Excel dashboard built on pivot tables, pivot charts and slicers. Open the [workbook](assets/Excel_WorkBook1.xlsx) to filter by geography, age group and complaint status.*
 
 ---
 
